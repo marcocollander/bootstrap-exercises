@@ -1,0 +1,11 @@
+:root[data-bs-theme = "dark"] .carousel .carousel-inner .carousel-item .carousel-caption,
+:root[data-bs-theme = "dark"] .text-bg-light { color: white !important; }
+
+:root[data-bs-theme = "dark"] .bg-light,
+:root[data-bs-theme = "dark"] .text-bg-light { background-color: black !important; }
+
+:root[data-bs-theme = "dark"] .bg-opacity-10 { --bs-bg-opacity: 0.25; }
+
+:root[data-bs-theme = "dark"] .link-dark { color: #f8f9fa !important; }
+
+:root[data-bs-theme = "dark"] .border-dark-subtle { border-color: #f8f9fa !important; }

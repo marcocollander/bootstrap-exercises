@@ -1,0 +1,32 @@
+Bootstrap (oficjalna strona frameworka)
+https://getbootstrap.com/
+
+Bootstrap (oficjalna dokumentacja frameworka w wersji 5.3.x)
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+Popper (oficjalna strona biblioteki rozszerzającej możliwości Bootstrapa)
+https://popper.js.org/
+
+Bootstrap Icons (oficjalne repozytorium ikon do wykorzystania na stronach internetowych niekoniecznie nawet opartych na Bootstrapie)
+https://icons.getbootstrap.com/
+
+Visual Studio Code (oficjalna strona najbardziej popularnego edytora kodu źródłowego z kolorowaniem składni)
+https://code.visualstudio.com/
+
+Notepad++ (oficjalna strona lekkiego edytora kodu źródłowego z kolorowaniem składni)
+https://notepad-plus-plus.org/
+
+display: flex (generator kodu języka CSS na podstawie kombinacji różnych właściwości trybu wyświetlania Flexbox (Flexible Box))
+https://flexbox.help/
+
+Flexbox Froggy (przeglądarkowa gra do nauki CSS-owego trybu wyświetlania Flexbox (Flexible Box))
+https://flexboxfroggy.com/#pl
+
+Flexbox Defense (przeglądarkowa gra do nauki CSS-owego trybu wyświetlania Flexbox (Flexible Box))
+http://www.flexboxdefense.com/
+
+Serwis internetowy GRY-Online.pl o tematyce gier wideo (źródło opisów gier zamieszczonych na stworzonej podczas kursu video stronie internetowej)
+https://www.gry-online.pl/
+
+Capcom Spotlight | 3.9.2023 | US-English (materiał filmowy z serwisu YouTube osadzony na stworzonej podczas kursu video stronie internetowej)
+https://www.youtube.com/watch?v=pR6WYjw5mlU
