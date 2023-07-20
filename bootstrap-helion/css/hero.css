@@ -1,6 +1,19 @@
-.carousel .corousel-inner .carousel-item {
-  height: 432px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+.carousel .carousel-inner .carousel-item {
+	height: 432px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.carousel .carousel-inner .carousel-item:nth-child(1) {
+	background-image: url('../img/webp/wanted-dead.webp');
+}
+.carousel .carousel-inner .carousel-item:nth-child(2) {
+	background-image: url('../img/webp/scars-above.webp');
+}
+.carousel .carousel-inner .carousel-item:nth-child(3) {
+	background-image: url('../img/webp/the-ascent.webp');
+}
+.carousel .carousel-inner .carousel-item:nth-child(4) {
+	background-image: url('../img/webp/moons-of-madness.webp');
 }
